@@ -7,9 +7,7 @@ import Title from '../components/Title'
 const AboutPage = () => {
   return (
     <>
-    <NavBar />
-    <Title />
-    <Footer />
+
     </>
   );
 };
