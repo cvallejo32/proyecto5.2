@@ -7,7 +7,7 @@ const HomePages = () => {
   return (
     <>
     <NavBar />
-    <Title titulo="Home Page" subTitulo="Pagina Principal"/>
+    <Title nombre="Home" subTitulo="Pagina Principal"/>
     <Footer />
     </>
   );

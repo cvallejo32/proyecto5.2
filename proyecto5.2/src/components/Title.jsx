@@ -2,9 +2,9 @@ import React from 'react'
 
 const Title = (props) => {
   return (
-    <div>
-      Esta es la pagina principal {props.titulo} y el subtitulo es {props.subtitulo}
-    </div>
+      <header>
+        <h1>Este es el header de {props.nombre} y el subtitulo es {props.subTitulo}</h1>
+      </header>
   )
 }
 
